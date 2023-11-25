@@ -1,0 +1,2 @@
+# Dairy
+ Write a diary entry and answer the following questions What did you learn? What did you like or did you find interesting? What did you not like? What did you not understand and/or what problems did you have and why? Create an "about me" page and introduce yourself Add a hyperlink (<a>) to the "about me" page which redirects to your diary Add a hyperlink (<a>) to your diary which redirects to your "about me" page Create a link to your HTML trinket (code) using the "Share" button on Trinket
